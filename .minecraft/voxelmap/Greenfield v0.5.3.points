@@ -1,4 +1,6 @@
 subworlds:
 oldNorthWorlds:
 seeds:
-name:Latest Death,x:11,z:94,y:111,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:Latest Death,x:-180,z:76,y:68,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:Spawn,x:115,z:-2,y:71,enabled:true,red:0.003921569,green:0.972549,blue:0.8901961,suffix:world,world:,dimensions:overworld#
+name:Warp Room,x:1149,z:-499,y:9,enabled:true,red:0.1444977,green:0.9196275,blue:0.5933786,suffix:,world:,dimensions:overworld#

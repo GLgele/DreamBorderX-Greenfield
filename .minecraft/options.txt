@@ -27,7 +27,7 @@ renderDistance:12
 entityDistanceScaling:1.0
 guiScale:0
 particles:1
-maxFps:120
+maxFps:260
 difficulty:2
 graphicsMode:1
 ao:2
@@ -88,7 +88,7 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
+key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
@@ -100,6 +100,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_of.key.zoom:key.keyboard.c
 key_Scene1 start/pause:key.keyboard.keypad.1
 key_Scene2 start/pause:key.keyboard.keypad.2
 key_Scene3 start/pause:key.keyboard.keypad.3
@@ -112,9 +113,6 @@ key_key.minimap.togglefullscreen:key.keyboard.x
 key_key.minimap.waypointhotkey:key.keyboard.n
 key_key.minimap.togglemobs:key.keyboard.unknown
 key_key.minimap.toggleingamewaypoints:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:0.5066225
 soundCategory_music:1.0
 soundCategory_record:1.0
